@@ -6,4 +6,4 @@
                 - An addition for the year
 */
 
-
+console.log('The Legened of Zelda released on the Famicon in Japan on ' + 2 + ' February ' + 1254 + )
