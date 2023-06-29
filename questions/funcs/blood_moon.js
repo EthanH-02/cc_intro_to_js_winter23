@@ -7,7 +7,7 @@
     
     Day NUM
 
-            Then call the function with the day value
+            Then call the function within that loop feeding in the current NUM value to the function
 
             The output should look like:
     Day 1
