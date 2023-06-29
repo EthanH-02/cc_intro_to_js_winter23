@@ -125,7 +125,7 @@ function printRows(rows) {
 
 
     // Delete this line once implemented
-    // console.log(rows[Math.floor(MAP_Y / 2)])
+    console.log(rows[Math.floor(MAP_Y / 2)])
 
 
 }
